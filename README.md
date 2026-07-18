@@ -167,4 +167,4 @@ MIT — feel free to fork and adapt for your own lead-gen pipeline.
 
 ---
 
-Built by [Nipun Anupama](https://github.com/Nipz66) — Senior Software Architect specializing in AI-driven automation and full-stack development.
+Built by [Nipun Anupama](https://github.com/Nipz66)
